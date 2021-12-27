@@ -67,8 +67,8 @@ export default {
     text-align: center;
     color: #2c3e50;
     margin-top: 60px;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
     display: flex;
     flex-display: column;
     flex-wrap: wrap;

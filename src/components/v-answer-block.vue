@@ -28,8 +28,8 @@ export default {
 }
 
 h2 {
-    font-size: 38px;
-    text-transform: uppercase;
+    font-size: 30px;
+    word-wrap: break-word;
     margin: 5px;
 }
 </style>
